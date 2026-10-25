@@ -1,4 +1,4 @@
-# CI/CD Tools and Practices Final Project - JavaScript/Node.js Version
+# ci-cd-final-project
 
 ci-cd-final-project
 
